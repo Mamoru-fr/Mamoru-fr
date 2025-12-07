@@ -5,11 +5,11 @@
 
 ---
 ### 🛠 Tech Stack
-**Languages** : TypeScript, JavaScript, Python
-**Frameworks** : React, NextJS, React Native
-**Databases** : PostgreSQL, SQLite
-**Tools** : Git, GitHub, Figma, Bubble, VS Code
-**Other** : Verilog basics, AI-assisted development (GitHub Copilot)
+* **Languages** : TypeScript, JavaScript, Python
+* **Frameworks** : React, NextJS, React Native
+* **Databases** : PostgreSQL, SQLite
+* **Tools** : Git, GitHub, Figma, Bubble, VS Code
+* **Other** : Verilog basics, AI-assisted development (GitHub Copilot)
 
 ---
 
