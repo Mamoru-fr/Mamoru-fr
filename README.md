@@ -13,13 +13,9 @@
 
 ---
 
-### 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mamoru-fr&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mamoru-fr&layout=compact&theme=radical)
-
----
-
 ### 💻 Featured Projects
+
+<details>
 
 #### [Frida - AdaVerse](https://github.com/Mamoru-fr/frida-adaverse-Mamoru-fr) | [Live Demo](https://frida-adaverse-mamoru-fr.vercel.app)
 **Tech** : React, TypeScript, PostgreSQL
@@ -48,6 +44,8 @@
 - Dynamic event retrieval via API
 - Category, date, and location filters
 - Favorites system
+
+</details>
 
 ---
 
