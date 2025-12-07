@@ -32,11 +32,9 @@
 
 <details>
 
-<summary> 
+<summary> Détails des Projets : Adaverse, Intermarché Conseil, AdaCheckEvent </summary>
   
 #### 1. **[Frida - AdaVerse](https://github.com/Mamoru-fr/frida-adaverse-Mamoru-fr) | [Démo](https://frida-adaverse-mamoru-fr.vercel.app)** 
-</summary>
-
 **Description** : Application web développée pour **Ada Tech School**, permettant de gérer un **catalogue collaboratif de projets étudiants**. Les utilisateurs peuvent ajouter et rechercher des projets via une interface intuitive. Les administrateur peuvent ajouter, supprimer des projets via des scripts sécurisés.
 **Technologies** : React, TypeScript, PostgreSQL
 **Fonctionnalités clés** :
@@ -45,7 +43,6 @@
 - Interface responsive et accessible.
 **Rôle** : Développement des fonctionnalités principales, sécurisation des opérations, et implémentation de la recherche dynamique.
 
-</details>
 ---
 
 #### 2. **[Intermarché - Application de promotions](https://github.com/Mamoru-fr/2024-2025-project-5-bubble-intermarche-team-1) | [Démo](https://2024-2025-projet-5-team-1.bubbleapps.io/version-test)**
@@ -69,6 +66,7 @@
 - Interface responsive et design moderne.
 **Rôle** : Développement des fonctionnalités principales, intégration de l'API, et optimisation de l'interface utilisateur.
 
+</details>
 
 ---
 
@@ -115,6 +113,10 @@
 
 ### 💼 My Projects
 
+<details>
+
+<summary> Project details: Adaverse, Intermarché Conseil, AdaCheckEvent </summary>
+
 #### 1. **[Frida - AdaVerse](https://github.com/Mamoru-fr/frida-adaverse-Mamoru-fr)**
 **Description** : Web application developed for **Ada Tech School** to manage a **catalog of student projects**. The goal is to centralize and facilitate the search for projects completed by learners.
 **Technologies** : React, TypeScript, PostgreSQL
@@ -136,6 +138,8 @@
 **Features** :
 - Dynamic retrieval and organization of events.
 - Responsive interface with filters and favorites system.
+
+</details>
 
 ---
 
