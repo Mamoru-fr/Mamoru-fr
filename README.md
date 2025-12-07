@@ -29,7 +29,14 @@
 
 ### 💼 Mes projets
 
-#### 1. **[Frida - AdaVerse](https://github.com/Mamoru-fr/frida-adaverse-Mamoru-fr) | [Démo](https://frida-adaverse-mamoru-fr.vercel.app)**
+
+<details>
+
+<summary> 
+  
+#### 1. **[Frida - AdaVerse](https://github.com/Mamoru-fr/frida-adaverse-Mamoru-fr) | [Démo](https://frida-adaverse-mamoru-fr.vercel.app)** 
+</summary>
+
 **Description** : Application web développée pour **Ada Tech School**, permettant de gérer un **catalogue collaboratif de projets étudiants**. Les utilisateurs peuvent ajouter et rechercher des projets via une interface intuitive. Les administrateur peuvent ajouter, supprimer des projets via des scripts sécurisés.
 **Technologies** : React, TypeScript, PostgreSQL
 **Fonctionnalités clés** :
@@ -38,6 +45,7 @@
 - Interface responsive et accessible.
 **Rôle** : Développement des fonctionnalités principales, sécurisation des opérations, et implémentation de la recherche dynamique.
 
+</details>
 ---
 
 #### 2. **[Intermarché - Application de promotions](https://github.com/Mamoru-fr/2024-2025-project-5-bubble-intermarche-team-1) | [Démo](https://2024-2025-projet-5-team-1.bubbleapps.io/version-test)**
